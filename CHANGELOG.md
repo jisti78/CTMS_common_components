@@ -1,5 +1,11 @@
-## [1.0.0] (2024-06-03)
+## [1.0.0] (2026-05-29)
 
 ### Bugs fixed:
 
 - packeges and changes([`5c544a4`](https://personal/jithstephen13/jsUiComponentLibrary/commit/5c544a4425e00e208c38b89e5631f4170abd6bfe)) (by jithstephen)
+
+## [1.0.1] (2026-05-29)
+
+### Bugs fixed:
+
+- work flow changes([`2a082d8`](https://github.com-jisti78/jisti78/CTMS_common_components/commit/2a082d815bdf3b150ce9e16ec92288d502062236)) (by Jith Stephen)
