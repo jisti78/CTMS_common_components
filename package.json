@@ -1,5 +1,5 @@
 {
-  "name": "CTMS_common_components",
+  "name": "ctms-common-components",
   "version": "1.0.1",
   "description": "Comprehensive Temple Management System",
   "main": "./src/lib.js",
