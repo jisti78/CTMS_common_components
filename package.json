@@ -14,9 +14,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jithstephen13/ctms_fnd"
+    "url": "https://github.com/jisti78/CTMS_common_components"
   },
-  "author": "Jith Stephen",
+  "author": "ctms",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.24.0",
