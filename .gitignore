@@ -3,4 +3,3 @@ node_modules
 .vscode/
 dist/index.js
 storybook-static/*
-package-lock.json
