@@ -122,7 +122,6 @@ export {
 
 
 export {
-  Pagination,
   PoojaCard,
   MoreActions,
   AdvancedTable,
