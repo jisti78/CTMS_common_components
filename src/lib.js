@@ -122,13 +122,11 @@ export {
 
 
 export {
-  Pagination,
   PoojaCard,
   MoreActions,
   AdvancedTable,
   TokenCard,
   StatusCard,
-  MoreActions,
   CustomButton
 } from './components'
 
