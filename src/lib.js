@@ -127,7 +127,6 @@ export {
   AdvancedTable,
   TokenCard,
   StatusCard,
-  MoreActions,
   CustomButton
 } from './components'
 
